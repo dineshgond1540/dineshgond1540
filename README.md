@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Namaste India Trip Pvt. Ltd](https://www.pilgrimagetour.in/hotels-in-nashik)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://dineshgond1540.github.io/DineshGond_porfolio/](https://dineshgond1540.github.io/DineshGond_porfolio/)
+- 👨‍💻 All of my projects are available at [[https://dineshgond1540.github.io/DineshGond_porfolio/](https://dineshgond-profile.netlify.app/)](https://dineshgond1540.github.io/DineshGond_porfolio/)
 
 - 💬 Ask me about **MERN,Web Developer**
 
