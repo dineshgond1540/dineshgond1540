@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [[https://dineshgond1540.github.io/DineshGond_porfolio/](https://dineshgond-profile.netlify.app/)](https://dineshgond1540.github.io/DineshGond_porfolio/)
+- 👨‍💻 All of my projects are available at [[https://dineshgond1540.github.io/DineshGond_porfolio/](https://dineshgond-profile.netlify.app/)]
 
 - 💬 Ask me about **MERN,Web Developer**
 
 - 📫 How to reach me **dineshlal62191@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K4EwnRFBAddHCLPvdpASUDag2FXOFB7N/view?usp=sharing](https://drive.google.com/file/d/1K4EwnRFBAddHCLPvdpASUDag2FXOFB7N/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1a46Qv63ZJd92JnBZdV0QgtAJ4x3BlSyM/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
